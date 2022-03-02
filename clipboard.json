@@ -1,1 +1,1 @@
-{"python1": "multiClipboard", "test": "key = input(\"Enter a key: \")"}
+{"python1": "multiClipboard", "test": "key = input(\"Enter a key: \")", "json": "import json"}
